@@ -1,2 +1,2 @@
 # ControleFinanceiro
-Fazer uma aplicação para controle de gastos
+Aplicação para controle de gastos pessoais
